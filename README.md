@@ -1,4 +1,4 @@
-### Robert Spencer
+### Robert J. Spencer
 
 AI Engineer & PhD Researcher at The University of Queensland (SAAFE CRC), based in Brisbane. I build applied machine learning, clinical LLM, and privacy-preserving simulation systems for health and environmental problems.
 
@@ -11,4 +11,4 @@ AI Engineer & PhD Researcher at The University of Queensland (SAAFE CRC), based 
 - **First-author Q1 publication:** *Transfer learning on transformers for building energy consumption forecasting* ([*Energy and Buildings*, 2025](https://doi.org/10.1016/j.enbuild.2025.115632)), reducing 24-hour MAE by 15.9% via multi-source zero-shot transfer.
 - **Radix Nutrition (Senior Data Scientist):** First technical hire; built the Computational Nutrition Platform using linear programming (SciPy HiGHS/PuLP/Gurobi), DuckDB/Polars (3.9M+ food records), and deterministic FSANZ regulatory systems, cutting iteration time by >90%, formulation costs by >25%, and substantiating 150+ health claims.
 
-[robertjspencer.com](https://robertjspencer.com) · [LinkedIn](https://www.linkedin.com/in/rspencer9721/) · [Google Scholar](https://scholar.google.com/citations?user=8kCAcEQAAAAJ&hl=en) · [ORCID](https://orcid.org/0009-0005-2321-6212) · [CV (PDF)](https://robertjspencer.com/documents/Robert-Spencer-CV.pdf)
+[robertjspencer.com](https://robertjspencer.com) · [LinkedIn](https://www.linkedin.com/in/robert-james-spencer/) · [Google Scholar](https://scholar.google.com/citations?user=8kCAcEQAAAAJ&hl=en) · [ORCID](https://orcid.org/0009-0005-2321-6212) · [CV (PDF)](https://robertjspencer.com/documents/Robert-Spencer-CV.pdf)
